@@ -10,16 +10,17 @@ body {
 
 a{
     text-decoration: none;
+     font-family: 'Playfair Display', serif;
 
 }
 h3 {
     font-weight: inherit;
-    width: 100px;
-    height: 125px;
+    width: 600px;
+    height: 40px;
 }
 
 h4 {
-    width: 400px;
+    width: 500px;
     height: 40px;
    
 }
@@ -92,14 +93,14 @@ img:hover {
 .container .product-list .product h3 {
     padding-top: 5px;
     letter-spacing: 2px;
-    font-size: 22px;
-    font-weight: 400;
+    color: #48a809;
+    font-weight: 600;
 }
 
 .container .product-list .product h4 {
     padding: 3px 0px;
     color: #48a809;
     font-weight: 700;
-    letter-spacing: 3px;
+    letter-spacing: 2px;
 }
 
